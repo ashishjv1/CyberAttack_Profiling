@@ -10,7 +10,7 @@ We use low-level attributes ("bash-history") to classify an attack behavior in a
 
 Please cite our work: 
 
-@Article{s23042028,
+@article{s23042028,
 AUTHOR = {Kotenko, Igor and Fedorchenko, Elena and Novikova, Evgenia and Jha, Ashish},
 TITLE = {Cyber Attacker Profiling for Risk Analysis Based on Machine Learning},
 JOURNAL = {Sensors},
