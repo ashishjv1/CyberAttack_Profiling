@@ -9,6 +9,7 @@ We use low-level attributes ("bash-history") to classify an attack behavior in a
 
 Please cite our work if you used the dataset or code:
 
+```
 @article{kotenko2023cyber,
   title={Cyber Attacker Profiling for Risk Analysis Based on Machine Learning},
   author={Kotenko, Igor and Fedorchenko, Elena and Novikova, Evgenia and Jha, Ashish},
@@ -19,3 +20,4 @@ Please cite our work if you used the dataset or code:
   year={2023},
   publisher={Multidisciplinary Digital Publishing Institute}
 }
+```
